@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: public
+    schema: public
+    tables:
+      - name: sales_data
+
+models:
+  - name: sales_transformed
+    description: "This model transforms raw sales data by calculating the total amount and filtering invalid rows."
+    columns:
+      - name: InvoiceNo
+        description: "The unique invoice number."
+        data_tests:
+          - not_null
+          - unique
+      - name: TotalAmount
+        description: "Total sales amount calculated as Quantity * UnitPrice."
+        data_tests:
+          - not_null
+      - name: CustomerID
+        description: "The ID of the customer."
+        data_tests:
+          - not_null

@@ -16,7 +16,7 @@ logging.basicConfig(
 load_dotenv('.env')
 api_id = os.getenv('TG_API_ID')
 api_hash = os.getenv('TG_API_HASH')
-phone = os.getenv('phone')
+phone = os.getenv('TG_PHONE_NUMBER')
 
 # Function to read channels from a JSON file
 def load_channels_from_json(file_path):

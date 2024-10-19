@@ -1,0 +1,105 @@
+2024-10-19 02:36:23,365 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2024-10-19 02:36:26,305 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2024-10-19 02:36:27,002 - INFO - Phone migrated to 4
+2024-10-19 02:36:27,056 - INFO - Reconnecting to new data center 4
+2024-10-19 02:36:27,228 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2024-10-19 02:36:27,228 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2024-10-19 02:36:27,228 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:36:28,771 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:37:27,370 - INFO - Client started successfully.
+2024-10-19 02:37:27,370 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 02:37:59,898 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:38:01,013 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:38:01,374 - INFO - Client started successfully.
+2024-10-19 02:38:01,374 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 02:42:24,526 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:42:24,577 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:42:24,939 - INFO - Client started successfully.
+2024-10-19 02:42:24,939 - INFO - Media directory 'photos' already exists.
+2024-10-19 02:42:24,942 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 02:42:48,710 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:42:48,847 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:42:50,256 - INFO - Client started successfully.
+2024-10-19 02:42:50,257 - INFO - Created media directory: photos
+2024-10-19 02:42:50,257 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 02:45:03,654 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:45:04,704 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:45:05,147 - INFO - Client started successfully.
+2024-10-19 02:45:05,147 - INFO - Media directory 'photos' already exists.
+2024-10-19 02:45:05,147 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 02:46:45,392 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:46:45,450 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:46:45,769 - INFO - Client started successfully.
+2024-10-19 02:46:45,769 - INFO - Media directory 'photos' already exists.
+2024-10-19 02:46:45,769 - ERROR - Error reading channels from JSON: [Errno 22] Invalid argument: 'D:\\Data Science\x08acadamy\\week7_challenge\telegram_scrapper\\channels.json'
+2024-10-19 02:48:34,779 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 02:48:34,836 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 02:48:35,336 - INFO - Client started successfully.
+2024-10-19 02:48:35,336 - INFO - Media directory 'photos' already exists.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1184.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1184: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1184 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1183.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1183: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1183 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - No media found in message ID 1182.
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1182 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - No media found in message ID 1181.
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1181 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - No media found in message ID 1180.
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1180 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - No media found in message ID 1179.
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1179 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1178.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1178: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1178 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1177.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1177: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1177 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1176.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1176: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1176 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1175.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1175: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1175 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1172.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1172: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1172 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1171.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1171: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1171 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - No media found in message ID 1170.
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1170 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1169.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1169: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1169 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1168.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1168: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1168 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1167.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1167: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1167 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1166.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1166: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1166 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1165.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1165: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1165 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1164.
+2024-10-19 02:48:35,755 - ERROR - Error downloading media for message ID 1164: 'MessageMediaPhoto' object has no attribute 'document'
+2024-10-19 02:48:35,755 - INFO - Processed message ID 1164 from @yetenaweg.
+2024-10-19 02:48:35,755 - INFO - Media found in message ID 1163.
+2024-10-19 02:48:35,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 02:48:54,947 - INFO - Downloaded media for message ID 1163 to photos\@yetenaweg_1163.mp4.
+2024-10-19 02:48:54,947 - INFO - Processed message ID 1163 from @yetenaweg.
+2024-10-19 02:48:54,947 - INFO - Scraped data from @yetenaweg.
+2024-10-19 03:08:27,964 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 03:08:28,023 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 03:08:28,591 - INFO - Client started successfully.
+2024-10-19 03:08:28,593 - INFO - Media directory 'photos' already exists.
+2024-10-19 03:08:28,593 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
+2024-10-19 03:18:22,804 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 03:18:22,862 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 03:18:23,615 - INFO - Client started successfully.
+2024-10-19 03:18:23,615 - INFO - Media directory 'photos' already exists.
+2024-10-19 03:18:23,615 - ERROR - Error reading channels from JSON: [Errno 2] No such file or directory: 'channels.json'
