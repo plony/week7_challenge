@@ -411,3 +411,401 @@
 2024-10-19 18:58:39,230 - INFO - Downloaded image for message ID 750 to photos\@DoctorsET_750.jpg.
 2024-10-19 18:58:39,230 - INFO - Processed message ID 750 from @DoctorsET.
 2024-10-19 18:58:39,860 - INFO - Scraped data from @DoctorsET.
+2024-10-19 19:19:09,822 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-10-19 19:19:09,871 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-10-19 19:19:10,238 - INFO - Client started successfully.
+2024-10-19 19:19:10,238 - INFO - Media directory 'photos' already exists.
+2024-10-19 19:19:10,798 - INFO - Image found in message ID 864.
+2024-10-19 19:19:10,798 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:11,515 - INFO - Downloaded image for message ID 864 to photos\@DoctorsET_864.jpg.
+2024-10-19 19:19:11,516 - INFO - Processed message ID 864 from @DoctorsET.
+2024-10-19 19:19:11,516 - INFO - Image found in message ID 863.
+2024-10-19 19:19:11,516 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:12,289 - INFO - Downloaded image for message ID 863 to photos\@DoctorsET_863.jpg.
+2024-10-19 19:19:12,289 - INFO - Processed message ID 863 from @DoctorsET.
+2024-10-19 19:19:12,289 - INFO - Image found in message ID 862.
+2024-10-19 19:19:12,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:13,078 - INFO - Downloaded image for message ID 862 to photos\@DoctorsET_862.jpg.
+2024-10-19 19:19:13,078 - INFO - Processed message ID 862 from @DoctorsET.
+2024-10-19 19:19:13,078 - INFO - Image found in message ID 861.
+2024-10-19 19:19:13,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:14,052 - INFO - Downloaded image for message ID 861 to photos\@DoctorsET_861.jpg.
+2024-10-19 19:19:14,054 - INFO - Processed message ID 861 from @DoctorsET.
+2024-10-19 19:19:14,054 - INFO - Image found in message ID 860.
+2024-10-19 19:19:14,054 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:14,625 - INFO - Downloaded image for message ID 860 to photos\@DoctorsET_860.jpg.
+2024-10-19 19:19:14,625 - INFO - Processed message ID 860 from @DoctorsET.
+2024-10-19 19:19:14,625 - INFO - Image found in message ID 859.
+2024-10-19 19:19:14,625 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:15,149 - INFO - Downloaded image for message ID 859 to photos\@DoctorsET_859.jpg.
+2024-10-19 19:19:15,149 - INFO - Processed message ID 859 from @DoctorsET.
+2024-10-19 19:19:15,149 - INFO - Image found in message ID 848.
+2024-10-19 19:19:15,149 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:16,231 - INFO - Downloaded image for message ID 848 to photos\@DoctorsET_848.jpg.
+2024-10-19 19:19:16,231 - INFO - Processed message ID 848 from @DoctorsET.
+2024-10-19 19:19:16,231 - INFO - Image found in message ID 847.
+2024-10-19 19:19:16,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:17,387 - INFO - Downloaded image for message ID 847 to photos\@DoctorsET_847.jpg.
+2024-10-19 19:19:17,387 - INFO - Processed message ID 847 from @DoctorsET.
+2024-10-19 19:19:17,387 - INFO - Image found in message ID 846.
+2024-10-19 19:19:17,389 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:18,427 - INFO - Downloaded image for message ID 846 to photos\@DoctorsET_846.jpg.
+2024-10-19 19:19:18,427 - INFO - Processed message ID 846 from @DoctorsET.
+2024-10-19 19:19:18,427 - INFO - Image found in message ID 845.
+2024-10-19 19:19:18,427 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:19,480 - INFO - Downloaded image for message ID 845 to photos\@DoctorsET_845.jpg.
+2024-10-19 19:19:19,480 - INFO - Processed message ID 845 from @DoctorsET.
+2024-10-19 19:19:19,480 - INFO - Image found in message ID 844.
+2024-10-19 19:19:19,480 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:20,594 - INFO - Downloaded image for message ID 844 to photos\@DoctorsET_844.jpg.
+2024-10-19 19:19:20,594 - INFO - Processed message ID 844 from @DoctorsET.
+2024-10-19 19:19:20,594 - INFO - Image found in message ID 843.
+2024-10-19 19:19:20,594 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:21,619 - INFO - Downloaded image for message ID 843 to photos\@DoctorsET_843.jpg.
+2024-10-19 19:19:21,619 - INFO - Processed message ID 843 from @DoctorsET.
+2024-10-19 19:19:21,619 - INFO - Image found in message ID 842.
+2024-10-19 19:19:21,619 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:22,227 - INFO - Downloaded image for message ID 842 to photos\@DoctorsET_842.jpg.
+2024-10-19 19:19:22,227 - INFO - Processed message ID 842 from @DoctorsET.
+2024-10-19 19:19:22,227 - INFO - Image found in message ID 841.
+2024-10-19 19:19:22,227 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:22,826 - INFO - Downloaded image for message ID 841 to photos\@DoctorsET_841.jpg.
+2024-10-19 19:19:22,826 - INFO - Processed message ID 841 from @DoctorsET.
+2024-10-19 19:19:22,826 - INFO - Image found in message ID 840.
+2024-10-19 19:19:22,826 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:23,287 - INFO - Downloaded image for message ID 840 to photos\@DoctorsET_840.jpg.
+2024-10-19 19:19:23,287 - INFO - Processed message ID 840 from @DoctorsET.
+2024-10-19 19:19:23,287 - INFO - Image found in message ID 839.
+2024-10-19 19:19:23,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:24,196 - INFO - Downloaded image for message ID 839 to photos\@DoctorsET_839.jpg.
+2024-10-19 19:19:24,196 - INFO - Processed message ID 839 from @DoctorsET.
+2024-10-19 19:19:24,196 - INFO - Image found in message ID 836.
+2024-10-19 19:19:24,196 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:25,105 - INFO - Downloaded image for message ID 836 to photos\@DoctorsET_836.jpg.
+2024-10-19 19:19:25,105 - INFO - Processed message ID 836 from @DoctorsET.
+2024-10-19 19:19:25,105 - INFO - Image found in message ID 835.
+2024-10-19 19:19:25,105 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:25,588 - INFO - Downloaded image for message ID 835 to photos\@DoctorsET_835.jpg.
+2024-10-19 19:19:25,588 - INFO - Processed message ID 835 from @DoctorsET.
+2024-10-19 19:19:25,588 - INFO - Image found in message ID 834.
+2024-10-19 19:19:25,588 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:26,062 - INFO - Downloaded image for message ID 834 to photos\@DoctorsET_834.jpg.
+2024-10-19 19:19:26,062 - INFO - Processed message ID 834 from @DoctorsET.
+2024-10-19 19:19:26,062 - INFO - Image found in message ID 833.
+2024-10-19 19:19:26,062 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:26,681 - INFO - Downloaded image for message ID 833 to photos\@DoctorsET_833.jpg.
+2024-10-19 19:19:26,681 - INFO - Processed message ID 833 from @DoctorsET.
+2024-10-19 19:19:26,681 - INFO - Image found in message ID 832.
+2024-10-19 19:19:26,681 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:27,534 - INFO - Downloaded image for message ID 832 to photos\@DoctorsET_832.jpg.
+2024-10-19 19:19:27,534 - INFO - Processed message ID 832 from @DoctorsET.
+2024-10-19 19:19:27,534 - INFO - Image found in message ID 831.
+2024-10-19 19:19:27,534 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:28,082 - INFO - Downloaded image for message ID 831 to photos\@DoctorsET_831.jpg.
+2024-10-19 19:19:28,082 - INFO - Processed message ID 831 from @DoctorsET.
+2024-10-19 19:19:28,082 - INFO - Image found in message ID 830.
+2024-10-19 19:19:28,082 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:29,349 - INFO - Downloaded image for message ID 830 to photos\@DoctorsET_830.jpg.
+2024-10-19 19:19:29,349 - INFO - Processed message ID 830 from @DoctorsET.
+2024-10-19 19:19:29,349 - INFO - Image found in message ID 829.
+2024-10-19 19:19:29,349 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:30,054 - INFO - Downloaded image for message ID 829 to photos\@DoctorsET_829.jpg.
+2024-10-19 19:19:30,054 - INFO - Processed message ID 829 from @DoctorsET.
+2024-10-19 19:19:30,054 - INFO - Image found in message ID 828.
+2024-10-19 19:19:30,055 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:30,833 - INFO - Downloaded image for message ID 828 to photos\@DoctorsET_828.jpg.
+2024-10-19 19:19:30,833 - INFO - Processed message ID 828 from @DoctorsET.
+2024-10-19 19:19:30,833 - INFO - Image found in message ID 827.
+2024-10-19 19:19:30,833 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:31,352 - INFO - Downloaded image for message ID 827 to photos\@DoctorsET_827.jpg.
+2024-10-19 19:19:31,352 - INFO - Processed message ID 827 from @DoctorsET.
+2024-10-19 19:19:31,352 - INFO - Image found in message ID 826.
+2024-10-19 19:19:31,352 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:31,855 - INFO - Downloaded image for message ID 826 to photos\@DoctorsET_826.jpg.
+2024-10-19 19:19:31,855 - INFO - Processed message ID 826 from @DoctorsET.
+2024-10-19 19:19:31,855 - INFO - Image found in message ID 825.
+2024-10-19 19:19:31,863 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:32,675 - INFO - Downloaded image for message ID 825 to photos\@DoctorsET_825.jpg.
+2024-10-19 19:19:32,675 - INFO - Processed message ID 825 from @DoctorsET.
+2024-10-19 19:19:32,675 - INFO - Image found in message ID 824.
+2024-10-19 19:19:32,675 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:33,394 - INFO - Downloaded image for message ID 824 to photos\@DoctorsET_824.jpg.
+2024-10-19 19:19:33,394 - INFO - Processed message ID 824 from @DoctorsET.
+2024-10-19 19:19:33,394 - INFO - Image found in message ID 823.
+2024-10-19 19:19:33,394 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:33,921 - INFO - Downloaded image for message ID 823 to photos\@DoctorsET_823.jpg.
+2024-10-19 19:19:33,921 - INFO - Processed message ID 823 from @DoctorsET.
+2024-10-19 19:19:33,921 - INFO - Image found in message ID 822.
+2024-10-19 19:19:33,921 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:34,401 - INFO - Downloaded image for message ID 822 to photos\@DoctorsET_822.jpg.
+2024-10-19 19:19:34,401 - INFO - Processed message ID 822 from @DoctorsET.
+2024-10-19 19:19:34,401 - INFO - Image found in message ID 821.
+2024-10-19 19:19:34,413 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:35,510 - INFO - Downloaded image for message ID 821 to photos\@DoctorsET_821.jpg.
+2024-10-19 19:19:35,510 - INFO - Processed message ID 821 from @DoctorsET.
+2024-10-19 19:19:35,510 - INFO - Image found in message ID 820.
+2024-10-19 19:19:35,510 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:35,946 - INFO - Downloaded image for message ID 820 to photos\@DoctorsET_820.jpg.
+2024-10-19 19:19:35,946 - INFO - Processed message ID 820 from @DoctorsET.
+2024-10-19 19:19:35,946 - INFO - Image found in message ID 819.
+2024-10-19 19:19:35,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:36,574 - INFO - Downloaded image for message ID 819 to photos\@DoctorsET_819.jpg.
+2024-10-19 19:19:36,574 - INFO - Processed message ID 819 from @DoctorsET.
+2024-10-19 19:19:36,574 - INFO - Image found in message ID 818.
+2024-10-19 19:19:36,574 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:37,290 - INFO - Downloaded image for message ID 818 to photos\@DoctorsET_818.jpg.
+2024-10-19 19:19:37,290 - INFO - Processed message ID 818 from @DoctorsET.
+2024-10-19 19:19:37,290 - INFO - No image found in message ID 817.
+2024-10-19 19:19:37,290 - INFO - Processed message ID 817 from @DoctorsET.
+2024-10-19 19:19:37,290 - INFO - No image found in message ID 815.
+2024-10-19 19:19:37,290 - INFO - Processed message ID 815 from @DoctorsET.
+2024-10-19 19:19:37,295 - INFO - Image found in message ID 814.
+2024-10-19 19:19:37,295 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:37,766 - INFO - Downloaded image for message ID 814 to photos\@DoctorsET_814.jpg.
+2024-10-19 19:19:37,766 - INFO - Processed message ID 814 from @DoctorsET.
+2024-10-19 19:19:37,766 - INFO - Image found in message ID 813.
+2024-10-19 19:19:37,766 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:38,497 - INFO - Downloaded image for message ID 813 to photos\@DoctorsET_813.jpg.
+2024-10-19 19:19:38,497 - INFO - Processed message ID 813 from @DoctorsET.
+2024-10-19 19:19:38,497 - INFO - Image found in message ID 812.
+2024-10-19 19:19:38,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:38,930 - INFO - Downloaded image for message ID 812 to photos\@DoctorsET_812.jpg.
+2024-10-19 19:19:38,930 - INFO - Processed message ID 812 from @DoctorsET.
+2024-10-19 19:19:38,930 - INFO - Image found in message ID 811.
+2024-10-19 19:19:38,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:40,102 - INFO - Downloaded image for message ID 811 to photos\@DoctorsET_811.jpg.
+2024-10-19 19:19:40,102 - INFO - Processed message ID 811 from @DoctorsET.
+2024-10-19 19:19:40,102 - INFO - Image found in message ID 810.
+2024-10-19 19:19:40,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:40,666 - INFO - Downloaded image for message ID 810 to photos\@DoctorsET_810.jpg.
+2024-10-19 19:19:40,666 - INFO - Processed message ID 810 from @DoctorsET.
+2024-10-19 19:19:40,666 - INFO - Image found in message ID 809.
+2024-10-19 19:19:40,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:41,528 - INFO - Downloaded image for message ID 809 to photos\@DoctorsET_809.jpg.
+2024-10-19 19:19:41,528 - INFO - Processed message ID 809 from @DoctorsET.
+2024-10-19 19:19:41,528 - INFO - Image found in message ID 808.
+2024-10-19 19:19:41,534 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:42,421 - INFO - Downloaded image for message ID 808 to photos\@DoctorsET_808.jpg.
+2024-10-19 19:19:42,421 - INFO - Processed message ID 808 from @DoctorsET.
+2024-10-19 19:19:42,421 - INFO - Image found in message ID 807.
+2024-10-19 19:19:42,421 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:44,106 - INFO - Downloaded image for message ID 807 to photos\@DoctorsET_807.jpg.
+2024-10-19 19:19:44,106 - INFO - Processed message ID 807 from @DoctorsET.
+2024-10-19 19:19:44,106 - INFO - Image found in message ID 805.
+2024-10-19 19:19:44,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:45,129 - INFO - Downloaded image for message ID 805 to photos\@DoctorsET_805.jpg.
+2024-10-19 19:19:45,129 - INFO - Processed message ID 805 from @DoctorsET.
+2024-10-19 19:19:45,129 - INFO - Image found in message ID 804.
+2024-10-19 19:19:45,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:45,767 - INFO - Downloaded image for message ID 804 to photos\@DoctorsET_804.jpg.
+2024-10-19 19:19:45,767 - INFO - Processed message ID 804 from @DoctorsET.
+2024-10-19 19:19:45,767 - INFO - Image found in message ID 802.
+2024-10-19 19:19:45,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:46,365 - INFO - Downloaded image for message ID 802 to photos\@DoctorsET_802.jpg.
+2024-10-19 19:19:46,365 - INFO - Processed message ID 802 from @DoctorsET.
+2024-10-19 19:19:46,365 - INFO - Image found in message ID 801.
+2024-10-19 19:19:46,372 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:46,917 - INFO - Downloaded image for message ID 801 to photos\@DoctorsET_801.jpg.
+2024-10-19 19:19:46,917 - INFO - Processed message ID 801 from @DoctorsET.
+2024-10-19 19:19:46,917 - INFO - Image found in message ID 800.
+2024-10-19 19:19:46,918 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:47,523 - INFO - Downloaded image for message ID 800 to photos\@DoctorsET_800.jpg.
+2024-10-19 19:19:47,523 - INFO - Processed message ID 800 from @DoctorsET.
+2024-10-19 19:19:47,523 - INFO - Image found in message ID 799.
+2024-10-19 19:19:47,523 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:48,076 - INFO - Downloaded image for message ID 799 to photos\@DoctorsET_799.jpg.
+2024-10-19 19:19:48,086 - INFO - Processed message ID 799 from @DoctorsET.
+2024-10-19 19:19:48,086 - INFO - Image found in message ID 798.
+2024-10-19 19:19:48,086 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:49,039 - INFO - Downloaded image for message ID 798 to photos\@DoctorsET_798.jpg.
+2024-10-19 19:19:49,039 - INFO - Processed message ID 798 from @DoctorsET.
+2024-10-19 19:19:49,039 - INFO - Image found in message ID 797.
+2024-10-19 19:19:49,039 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:49,543 - INFO - Downloaded image for message ID 797 to photos\@DoctorsET_797.jpg.
+2024-10-19 19:19:49,543 - INFO - Processed message ID 797 from @DoctorsET.
+2024-10-19 19:19:49,543 - INFO - Image found in message ID 796.
+2024-10-19 19:19:49,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:49,993 - INFO - Downloaded image for message ID 796 to photos\@DoctorsET_796.jpg.
+2024-10-19 19:19:49,993 - INFO - Processed message ID 796 from @DoctorsET.
+2024-10-19 19:19:49,993 - INFO - Image found in message ID 795.
+2024-10-19 19:19:49,993 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:50,952 - INFO - Downloaded image for message ID 795 to photos\@DoctorsET_795.jpg.
+2024-10-19 19:19:50,952 - INFO - Processed message ID 795 from @DoctorsET.
+2024-10-19 19:19:50,952 - INFO - Image found in message ID 794.
+2024-10-19 19:19:50,952 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:51,522 - INFO - Downloaded image for message ID 794 to photos\@DoctorsET_794.jpg.
+2024-10-19 19:19:51,522 - INFO - Processed message ID 794 from @DoctorsET.
+2024-10-19 19:19:51,522 - INFO - Image found in message ID 793.
+2024-10-19 19:19:51,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:52,184 - INFO - Downloaded image for message ID 793 to photos\@DoctorsET_793.jpg.
+2024-10-19 19:19:52,184 - INFO - Processed message ID 793 from @DoctorsET.
+2024-10-19 19:19:52,184 - INFO - Image found in message ID 792.
+2024-10-19 19:19:52,184 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:52,831 - INFO - Downloaded image for message ID 792 to photos\@DoctorsET_792.jpg.
+2024-10-19 19:19:52,831 - INFO - Processed message ID 792 from @DoctorsET.
+2024-10-19 19:19:52,831 - INFO - Image found in message ID 791.
+2024-10-19 19:19:52,831 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:53,727 - INFO - Downloaded image for message ID 791 to photos\@DoctorsET_791.jpg.
+2024-10-19 19:19:53,727 - INFO - Processed message ID 791 from @DoctorsET.
+2024-10-19 19:19:53,727 - INFO - Image found in message ID 790.
+2024-10-19 19:19:53,727 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:55,116 - INFO - Downloaded image for message ID 790 to photos\@DoctorsET_790.jpg.
+2024-10-19 19:19:55,116 - INFO - Processed message ID 790 from @DoctorsET.
+2024-10-19 19:19:55,116 - INFO - No image found in message ID 789.
+2024-10-19 19:19:55,116 - INFO - Processed message ID 789 from @DoctorsET.
+2024-10-19 19:19:55,116 - INFO - Image found in message ID 788.
+2024-10-19 19:19:55,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:55,415 - INFO - Downloaded image for message ID 788 to photos\@DoctorsET_788.jpg.
+2024-10-19 19:19:55,418 - INFO - Processed message ID 788 from @DoctorsET.
+2024-10-19 19:19:55,418 - INFO - Image found in message ID 787.
+2024-10-19 19:19:55,418 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:55,944 - INFO - Downloaded image for message ID 787 to photos\@DoctorsET_787.jpg.
+2024-10-19 19:19:55,944 - INFO - Processed message ID 787 from @DoctorsET.
+2024-10-19 19:19:55,944 - INFO - Image found in message ID 786.
+2024-10-19 19:19:55,947 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:56,488 - INFO - Downloaded image for message ID 786 to photos\@DoctorsET_786.jpg.
+2024-10-19 19:19:56,488 - INFO - Processed message ID 786 from @DoctorsET.
+2024-10-19 19:19:56,488 - INFO - Image found in message ID 785.
+2024-10-19 19:19:56,488 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:57,471 - INFO - Downloaded image for message ID 785 to photos\@DoctorsET_785.jpg.
+2024-10-19 19:19:57,471 - INFO - Processed message ID 785 from @DoctorsET.
+2024-10-19 19:19:57,471 - INFO - Image found in message ID 784.
+2024-10-19 19:19:57,474 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:58,138 - INFO - Downloaded image for message ID 784 to photos\@DoctorsET_784.jpg.
+2024-10-19 19:19:58,138 - INFO - Processed message ID 784 from @DoctorsET.
+2024-10-19 19:19:58,138 - INFO - Image found in message ID 783.
+2024-10-19 19:19:58,138 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:58,845 - INFO - Downloaded image for message ID 783 to photos\@DoctorsET_783.jpg.
+2024-10-19 19:19:58,845 - INFO - Processed message ID 783 from @DoctorsET.
+2024-10-19 19:19:58,845 - INFO - Image found in message ID 782.
+2024-10-19 19:19:58,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:19:59,576 - INFO - Downloaded image for message ID 782 to photos\@DoctorsET_782.jpg.
+2024-10-19 19:19:59,576 - INFO - Processed message ID 782 from @DoctorsET.
+2024-10-19 19:19:59,576 - INFO - Image found in message ID 781.
+2024-10-19 19:19:59,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:00,527 - INFO - Downloaded image for message ID 781 to photos\@DoctorsET_781.jpg.
+2024-10-19 19:20:00,527 - INFO - Processed message ID 781 from @DoctorsET.
+2024-10-19 19:20:00,527 - INFO - Image found in message ID 780.
+2024-10-19 19:20:00,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:01,456 - INFO - Downloaded image for message ID 780 to photos\@DoctorsET_780.jpg.
+2024-10-19 19:20:01,456 - INFO - Processed message ID 780 from @DoctorsET.
+2024-10-19 19:20:01,456 - INFO - Image found in message ID 779.
+2024-10-19 19:20:01,456 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:02,375 - INFO - Downloaded image for message ID 779 to photos\@DoctorsET_779.jpg.
+2024-10-19 19:20:02,375 - INFO - Processed message ID 779 from @DoctorsET.
+2024-10-19 19:20:02,375 - INFO - Image found in message ID 778.
+2024-10-19 19:20:02,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:03,248 - INFO - Downloaded image for message ID 778 to photos\@DoctorsET_778.jpg.
+2024-10-19 19:20:03,250 - INFO - Processed message ID 778 from @DoctorsET.
+2024-10-19 19:20:03,250 - INFO - Image found in message ID 777.
+2024-10-19 19:20:03,250 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:03,705 - INFO - Downloaded image for message ID 777 to photos\@DoctorsET_777.jpg.
+2024-10-19 19:20:03,705 - INFO - Processed message ID 777 from @DoctorsET.
+2024-10-19 19:20:03,705 - INFO - Image found in message ID 776.
+2024-10-19 19:20:03,705 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:04,438 - INFO - Downloaded image for message ID 776 to photos\@DoctorsET_776.jpg.
+2024-10-19 19:20:04,438 - INFO - Processed message ID 776 from @DoctorsET.
+2024-10-19 19:20:04,438 - INFO - Image found in message ID 775.
+2024-10-19 19:20:04,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:05,288 - INFO - Downloaded image for message ID 775 to photos\@DoctorsET_775.jpg.
+2024-10-19 19:20:05,288 - INFO - Processed message ID 775 from @DoctorsET.
+2024-10-19 19:20:05,288 - INFO - Image found in message ID 774.
+2024-10-19 19:20:05,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:06,202 - INFO - Downloaded image for message ID 774 to photos\@DoctorsET_774.jpg.
+2024-10-19 19:20:06,202 - INFO - Processed message ID 774 from @DoctorsET.
+2024-10-19 19:20:06,202 - INFO - Image found in message ID 773.
+2024-10-19 19:20:06,202 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:06,659 - INFO - Downloaded image for message ID 773 to photos\@DoctorsET_773.jpg.
+2024-10-19 19:20:06,659 - INFO - Processed message ID 773 from @DoctorsET.
+2024-10-19 19:20:06,659 - INFO - Image found in message ID 772.
+2024-10-19 19:20:06,659 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:07,272 - INFO - Downloaded image for message ID 772 to photos\@DoctorsET_772.jpg.
+2024-10-19 19:20:07,272 - INFO - Processed message ID 772 from @DoctorsET.
+2024-10-19 19:20:07,272 - INFO - Image found in message ID 771.
+2024-10-19 19:20:07,272 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:08,785 - INFO - Downloaded image for message ID 771 to photos\@DoctorsET_771.jpg.
+2024-10-19 19:20:08,785 - INFO - Processed message ID 771 from @DoctorsET.
+2024-10-19 19:20:08,785 - INFO - Image found in message ID 770.
+2024-10-19 19:20:08,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:09,709 - INFO - Downloaded image for message ID 770 to photos\@DoctorsET_770.jpg.
+2024-10-19 19:20:09,709 - INFO - Processed message ID 770 from @DoctorsET.
+2024-10-19 19:20:09,709 - INFO - Image found in message ID 769.
+2024-10-19 19:20:09,723 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:10,717 - INFO - Downloaded image for message ID 769 to photos\@DoctorsET_769.jpg.
+2024-10-19 19:20:10,717 - INFO - Processed message ID 769 from @DoctorsET.
+2024-10-19 19:20:10,717 - INFO - Image found in message ID 768.
+2024-10-19 19:20:10,717 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:12,541 - INFO - Downloaded image for message ID 768 to photos\@DoctorsET_768.jpg.
+2024-10-19 19:20:12,541 - INFO - Processed message ID 768 from @DoctorsET.
+2024-10-19 19:20:12,541 - INFO - Image found in message ID 767.
+2024-10-19 19:20:12,601 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:13,524 - INFO - Downloaded image for message ID 767 to photos\@DoctorsET_767.jpg.
+2024-10-19 19:20:13,524 - INFO - Processed message ID 767 from @DoctorsET.
+2024-10-19 19:20:13,524 - INFO - Image found in message ID 766.
+2024-10-19 19:20:13,524 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:14,376 - INFO - Downloaded image for message ID 766 to photos\@DoctorsET_766.jpg.
+2024-10-19 19:20:14,376 - INFO - Processed message ID 766 from @DoctorsET.
+2024-10-19 19:20:14,376 - INFO - Image found in message ID 765.
+2024-10-19 19:20:14,376 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:15,721 - INFO - Downloaded image for message ID 765 to photos\@DoctorsET_765.jpg.
+2024-10-19 19:20:15,721 - INFO - Processed message ID 765 from @DoctorsET.
+2024-10-19 19:20:15,721 - INFO - Image found in message ID 764.
+2024-10-19 19:20:15,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:17,106 - INFO - Downloaded image for message ID 764 to photos\@DoctorsET_764.jpg.
+2024-10-19 19:20:17,110 - INFO - Processed message ID 764 from @DoctorsET.
+2024-10-19 19:20:17,110 - INFO - Image found in message ID 763.
+2024-10-19 19:20:17,111 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:19,399 - INFO - Downloaded image for message ID 763 to photos\@DoctorsET_763.jpg.
+2024-10-19 19:20:19,399 - INFO - Processed message ID 763 from @DoctorsET.
+2024-10-19 19:20:19,399 - INFO - Image found in message ID 762.
+2024-10-19 19:20:19,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:20,449 - INFO - Downloaded image for message ID 762 to photos\@DoctorsET_762.jpg.
+2024-10-19 19:20:20,449 - INFO - Processed message ID 762 from @DoctorsET.
+2024-10-19 19:20:20,449 - INFO - Image found in message ID 761.
+2024-10-19 19:20:20,451 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:22,635 - INFO - Downloaded image for message ID 761 to photos\@DoctorsET_761.jpg.
+2024-10-19 19:20:22,641 - INFO - Processed message ID 761 from @DoctorsET.
+2024-10-19 19:20:22,641 - INFO - Image found in message ID 760.
+2024-10-19 19:20:22,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:23,703 - INFO - Downloaded image for message ID 760 to photos\@DoctorsET_760.jpg.
+2024-10-19 19:20:23,703 - INFO - Processed message ID 760 from @DoctorsET.
+2024-10-19 19:20:23,703 - INFO - Image found in message ID 759.
+2024-10-19 19:20:23,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:25,231 - INFO - Downloaded image for message ID 759 to photos\@DoctorsET_759.jpg.
+2024-10-19 19:20:25,231 - INFO - Processed message ID 759 from @DoctorsET.
+2024-10-19 19:20:25,231 - INFO - Image found in message ID 758.
+2024-10-19 19:20:25,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:27,211 - INFO - Downloaded image for message ID 758 to photos\@DoctorsET_758.jpg.
+2024-10-19 19:20:27,211 - INFO - Processed message ID 758 from @DoctorsET.
+2024-10-19 19:20:27,211 - INFO - Image found in message ID 757.
+2024-10-19 19:20:27,211 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:28,866 - INFO - Downloaded image for message ID 757 to photos\@DoctorsET_757.jpg.
+2024-10-19 19:20:28,866 - INFO - Processed message ID 757 from @DoctorsET.
+2024-10-19 19:20:28,867 - INFO - Image found in message ID 756.
+2024-10-19 19:20:28,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:29,944 - INFO - Downloaded image for message ID 756 to photos\@DoctorsET_756.jpg.
+2024-10-19 19:20:29,944 - INFO - Processed message ID 756 from @DoctorsET.
+2024-10-19 19:20:29,944 - INFO - Image found in message ID 755.
+2024-10-19 19:20:29,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:30,829 - INFO - Downloaded image for message ID 755 to photos\@DoctorsET_755.jpg.
+2024-10-19 19:20:30,829 - INFO - Processed message ID 755 from @DoctorsET.
+2024-10-19 19:20:30,829 - INFO - Image found in message ID 754.
+2024-10-19 19:20:30,830 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:31,476 - INFO - Downloaded image for message ID 754 to photos\@DoctorsET_754.jpg.
+2024-10-19 19:20:31,477 - INFO - Processed message ID 754 from @DoctorsET.
+2024-10-19 19:20:31,477 - INFO - Image found in message ID 753.
+2024-10-19 19:20:31,477 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:32,425 - INFO - Downloaded image for message ID 753 to photos\@DoctorsET_753.jpg.
+2024-10-19 19:20:32,425 - INFO - Processed message ID 753 from @DoctorsET.
+2024-10-19 19:20:32,425 - INFO - No image found in message ID 752.
+2024-10-19 19:20:32,425 - INFO - Processed message ID 752 from @DoctorsET.
+2024-10-19 19:20:32,425 - INFO - Image found in message ID 751.
+2024-10-19 19:20:32,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:33,975 - INFO - Downloaded image for message ID 751 to photos\@DoctorsET_751.jpg.
+2024-10-19 19:20:33,975 - INFO - Processed message ID 751 from @DoctorsET.
+2024-10-19 19:20:33,975 - INFO - Image found in message ID 750.
+2024-10-19 19:20:33,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-19 19:20:34,561 - INFO - Downloaded image for message ID 750 to photos\@DoctorsET_750.jpg.
+2024-10-19 19:20:34,561 - INFO - Processed message ID 750 from @DoctorsET.
+2024-10-19 19:20:35,201 - INFO - Scraped data from @DoctorsET.
+2024-10-19 19:20:35,203 - ERROR - Error in data cleaning process: name 'pd' is not defined

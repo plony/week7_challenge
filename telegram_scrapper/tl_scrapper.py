@@ -110,3 +110,31 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+     # Data Cleaning and Transformation
+def clean_data(csv_file):
+    try:
+        # Load data
+        df = pd.read_csv(csv_file)
+
+        # Remove duplicates
+        df.drop_duplicates(inplace=True)
+
+        # Handle missing values (e.g., fill with mean for numerical columns)
+        for column in df.select_dtypes(include=['float64', 'int64']):
+            df[column].fillna(df[column].mean(), inplace=True)
+
+        # Standardize date formats
+        df['date'] = pd.to_datetime(df['date']).dt.strftime('%Y-%m-%d')
+
+        # Validate data (example: assert no negative values in 'amount')
+        assert (df['amount'] >= 0).all(), "Negative values found in 'amount' column."
+
+        # Store cleaned data in the database
+        engine = create_engine('postgresql://username:password@localhost:5432/mydatabase')  # Update with your DB credentials
+        df.to_sql('cleaned_data', engine, if_exists='replace', index=False)
+        logging.info("Cleaned data stored in the database successfully.")
+    except Exception as e:
+        logging.error(f"Error in data cleaning process: {e}")
+
+# Call the clean_data function
+clean_data('channel_data.csv')
